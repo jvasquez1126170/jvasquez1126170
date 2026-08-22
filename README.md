@@ -3,7 +3,7 @@
 <h1 style="text-align: left;">
         ¡Hey!
 <br>
-<img src="AQUI_VA_LA_URL_DEL_GIF_DEL_AVION" width="200"  />
+<img src="AQUI_VA_LA_URL_DEL_GIF_DEL_AVION" width="200" />
         I'm Jaime...
 </h1>
 </div>
