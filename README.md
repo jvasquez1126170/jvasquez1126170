@@ -3,9 +3,7 @@
 <h1 style="text-align: left;">
         ¡Hey!
 <br>
-<img src="https://media.giphy.com/media/HrLP13riUJ5oG2cOVN/giphy.gif"
-     width="200"
-     alt="Avión tecnológico"  />
+<img src="https://media.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.gif" width="200" />
         I'm Jaime...
 </h1>
 </div>
